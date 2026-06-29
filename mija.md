@@ -1,27 +1,40 @@
-Malagasy greeting in my region :
+## Malagasy greeting in my region :
 
 
-If you do not see the person for a while: 
+### Use these expressions when you have not seen the person for a significant period of time : 
+
+#### Greeting
+ - "Manakory avy e !" 
+ - "Makorikory avy e!"
+
+#### Required Response
+ - "Tsara be akory avy e , manakory avy ny akao e (manakory avy ny aty e) !"
 
 
-"Manakory avy e !"
+### Use this expression if you previously interacted with the person just yesterday:
+
+#### Greeting
+ - "Akory lahaly e?"
+
+#### Required Response
+ - "Tsara be akory lahaly e!"
+
+### Use this expression if you have already seen and greeted the person earlier today:
+
+#### Greeting
+
+- "Mbarakaly e!"
+
+#### Required Response
+- " Tsara be mbarakaly e!"
 
 
-If you have already seen the person yesterday :
+Author: Mija Niaina Andrinajoro
+
+`Location Focus`: Ambohimanjaka, Didy, Ambatondrazaka, Toamasina, Madagascar
 
 
-"Akory lahaly e?" 
-
-
-If you have already seen the person today:
-
-
-"Mbarakaly e!"
-
-I am from  Ambohimanjaka , Didy , Ambatondrazaka , Toamasina , Madagascar
-
-
-Author : Mija Niaina Andrinajoro
+`Geographic Coordinates`: 18° 8' 41" S (18.14493° S), 48° 23' 14" E (48.38748° E)
 
 
  
